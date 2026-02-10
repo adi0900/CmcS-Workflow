@@ -1,0 +1,10 @@
+# Temporary extraction folders
+temp_docx_extract/
+temp_extract/
+
+# Temporary files
+temp.zip
+docx_content.txt
+docx_content_utf8.txt
+extract_docx_text.py
+extract_docx_text_utf8.py
